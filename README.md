@@ -4,3 +4,4 @@
 - [kaedim](https://www.kaedim3d.com/)
 - [MeshyAI](https://www.meshy.ai/)
 - [hynyuan 3D](https://3d-models.hunyuan.tencent.com/)
+- [hyper 3D](https://hyper3d.ai/?lang=ja)
