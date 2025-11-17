@@ -5,3 +5,4 @@
 - [MeshyAI](https://www.meshy.ai/)
 - [hynyuan 3D](https://3d-models.hunyuan.tencent.com/)
 - [hyper 3D](https://hyper3d.ai/?lang=ja)
+- [copilot 3D](https://copilot.microsoft.com/labs/experiments/copilot-3d)
