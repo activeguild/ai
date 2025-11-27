@@ -4,5 +4,6 @@
 - [kaedim](https://www.kaedim3d.com/)
 - [MeshyAI](https://www.meshy.ai/)
 - [hynyuan 3D](https://3d-models.hunyuan.tencent.com/)
+- [Hunyuan 3D Engine](https://3d.hunyuanglobal.com/)
 - [hyper 3D](https://hyper3d.ai/?lang=ja)
 - [copilot 3D](https://copilot.microsoft.com/labs/experiments/copilot-3d)
